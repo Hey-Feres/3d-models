@@ -1,0 +1,11 @@
+Model Information:
+* title:	2002 Spiderman (Sam Raimi)
+* source:	https://sketchfab.com/3d-models/2002-spiderman-sam-raimi-9d5d173428d2481ea4a54f3d8b41beda
+* author:	fredbear1211 (https://sketchfab.com/fredbear1211)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2002 Spiderman (Sam Raimi)" (https://sketchfab.com/3d-models/2002-spiderman-sam-raimi-9d5d173428d2481ea4a54f3d8b41beda) by fredbear1211 (https://sketchfab.com/fredbear1211) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

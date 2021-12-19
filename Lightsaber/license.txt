@@ -1,0 +1,11 @@
+Model Information:
+* title:	lightsaber
+* source:	https://sketchfab.com/3d-models/lightsaber-2ab875a60a5b4a90a005ff44bab24d08
+* author:	AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lightsaber" (https://sketchfab.com/3d-models/lightsaber-2ab875a60a5b4a90a005ff44bab24d08) by AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

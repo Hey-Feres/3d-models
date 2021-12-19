@@ -1213,13 +1213,13 @@
   ],
   "images": [
     {
-      "uri": "/textures/R2D2_Barrel_baseColor.png"
+      "uri": "textures/R2D2_Barrel_baseColor.png"
     },
     {
-      "uri": "/textures/R2D2_Barrel_metallicRoughness.png"
+      "uri": "textures/R2D2_Barrel_metallicRoughness.png"
     },
     {
-      "uri": "/textures/R2D2_Barrel_normal.png"
+      "uri": "textures/R2D2_Barrel_normal.png"
     }
   ],
   "materials": [
